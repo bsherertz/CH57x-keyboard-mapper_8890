@@ -7,11 +7,11 @@ import (
 	"github.com/achushu/hid"
 )
 
-// manu: wch.cn, product: CH57x, vendorID 4489, productID: 34960
+// manu: wch.cn, product: CH57x, vendorID 0x1189, productID: 0x8890
 
 const (
-	VENDOR_ID  = 4489
-	PRODUCT_ID = 34960
+	VENDOR_ID  = 0x1189
+	PRODUCT_ID = 0x8890
 	INTERFACE  = 1 // the programmable interface
 )
 
