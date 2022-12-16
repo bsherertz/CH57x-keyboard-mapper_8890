@@ -56,27 +56,27 @@ return
 
 
 Numpad1::
-Send, Ctrl+Numpad1 was pressed!
+Send, Numpad1 was pressed!
 return
 
 Numpad2::
-Send, Ctrl+Numpad2 was pressed!
+Send, Numpad2 was pressed!
 return
 
 Numpad3::
-Send, Ctrl+Numpad3 was pressed!
+Send, Numpad3 was pressed!
 return
 
 
 
 Numpad4::
-Send, Ctrl+Numpad4 was pressed!
+Send, Numpad4 was pressed!
 return
 
 Numpad5::
-Send, Ctrl+Numpad5 was pressed!
+Send, Numpad5 was pressed!
 return
 
 Numpad6::
-Send, Ctrl+Numpad6 was pressed!
+Send, Numpad6 was pressed!
 return
